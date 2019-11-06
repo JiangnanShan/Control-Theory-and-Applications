@@ -1,2 +1,2 @@
 # Control-Theory-and-Applications
-this projrct is for stroing figs and equations of control theory.
+This project is for stroing figs and equations of control theory.
